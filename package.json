@@ -16,8 +16,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "vite build && gh-pages -d dist"
-  }
-}
+  },
 
   "dependencies": {
     "@fontsource/merriweather": "^5.2.11",
